@@ -1,0 +1,14 @@
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task3_Library\bin\Debug\net10.0\Task3_Library.exe
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task3_Library\bin\Debug\net10.0\Task3_Library.deps.json
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task3_Library\bin\Debug\net10.0\Task3_Library.runtimeconfig.json
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task3_Library\bin\Debug\net10.0\Task3_Library.dll
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task3_Library\bin\Debug\net10.0\Task3_Library.pdb
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task3_Library\obj\Debug\net10.0\Task3_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task3_Library\obj\Debug\net10.0\Task3_Library.AssemblyInfoInputs.cache
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task3_Library\obj\Debug\net10.0\Task3_Library.AssemblyInfo.cs
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task3_Library\obj\Debug\net10.0\Task3_Library.csproj.CoreCompileInputs.cache
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task3_Library\obj\Debug\net10.0\Task3_Library.dll
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task3_Library\obj\Debug\net10.0\refint\Task3_Library.dll
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task3_Library\obj\Debug\net10.0\Task3_Library.pdb
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task3_Library\obj\Debug\net10.0\Task3_Library.genruntimeconfig.cache
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task3_Library\obj\Debug\net10.0\ref\Task3_Library.dll

@@ -1,0 +1,14 @@
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task4_Employees\bin\Debug\net10.0\Task4_Employees.exe
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task4_Employees\bin\Debug\net10.0\Task4_Employees.deps.json
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task4_Employees\bin\Debug\net10.0\Task4_Employees.runtimeconfig.json
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task4_Employees\bin\Debug\net10.0\Task4_Employees.dll
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task4_Employees\bin\Debug\net10.0\Task4_Employees.pdb
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task4_Employees\obj\Debug\net10.0\Task4_Employees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task4_Employees\obj\Debug\net10.0\Task4_Employees.AssemblyInfoInputs.cache
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task4_Employees\obj\Debug\net10.0\Task4_Employees.AssemblyInfo.cs
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task4_Employees\obj\Debug\net10.0\Task4_Employees.csproj.CoreCompileInputs.cache
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task4_Employees\obj\Debug\net10.0\Task4_Employees.dll
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task4_Employees\obj\Debug\net10.0\refint\Task4_Employees.dll
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task4_Employees\obj\Debug\net10.0\Task4_Employees.pdb
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task4_Employees\obj\Debug\net10.0\Task4_Employees.genruntimeconfig.cache
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task4_Employees\obj\Debug\net10.0\ref\Task4_Employees.dll

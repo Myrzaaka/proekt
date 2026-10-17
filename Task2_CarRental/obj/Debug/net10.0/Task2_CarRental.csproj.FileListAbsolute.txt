@@ -1,0 +1,14 @@
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task2_CarRental\bin\Debug\net10.0\Task2_CarRental.exe
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task2_CarRental\bin\Debug\net10.0\Task2_CarRental.deps.json
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task2_CarRental\bin\Debug\net10.0\Task2_CarRental.runtimeconfig.json
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task2_CarRental\bin\Debug\net10.0\Task2_CarRental.dll
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task2_CarRental\bin\Debug\net10.0\Task2_CarRental.pdb
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task2_CarRental\obj\Debug\net10.0\Task2_CarRental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task2_CarRental\obj\Debug\net10.0\Task2_CarRental.AssemblyInfoInputs.cache
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task2_CarRental\obj\Debug\net10.0\Task2_CarRental.AssemblyInfo.cs
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task2_CarRental\obj\Debug\net10.0\Task2_CarRental.csproj.CoreCompileInputs.cache
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task2_CarRental\obj\Debug\net10.0\Task2_CarRental.dll
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task2_CarRental\obj\Debug\net10.0\refint\Task2_CarRental.dll
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task2_CarRental\obj\Debug\net10.0\Task2_CarRental.pdb
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task2_CarRental\obj\Debug\net10.0\Task2_CarRental.genruntimeconfig.cache
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Task2_CarRental\obj\Debug\net10.0\ref\Task2_CarRental.dll
